@@ -2,8 +2,11 @@
     <img width=300 src="main.gif"/>    
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=500&size=23&pause=1000&color=5EE3F7&width=435&lines=Greeting+%2Cwanderer+!+I'm+Mayank" alt="Typing SVG" /></a>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=300&size=23&pause=1000&color=5EE3F7&width=435&lines=Greeting+%2Cwanderer+!+I'm+Mayank)](https://git.io/typing-svg)
 </div>
+
+
+
 # Hey there! 👋
 
 I'm **Mayank Sharma**, an aspiring **Machine Learning Engineer & Software Developer** from India 🇮🇳
