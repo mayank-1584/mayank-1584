@@ -11,7 +11,7 @@ If I can imagine it, I’ll probably try to build it (and debug it at 2 AM 🫠)
 ## 🚀 What I Do
 
 - 🤖 Build Machine Learning models (prediction systems, real-world use cases)
-- 🌐 Develop modern web applications (React, Tailwind, Flask)
+- 🌐 Develop modern web applications ( Flask)
 - 🧠 Solve problems using DSA (LeetCode + Codeforces grind)
 - ⚙️ Deploy projects using AWS & scalable backend systems
 
@@ -20,10 +20,10 @@ If I can imagine it, I’ll probably try to build it (and debug it at 2 AM 🫠)
 ## 🛠️ Tech Stack
 
 **Languages:**  
-C++ • Python • JavaScript • TypeScript  
+C++ • Python • JavaScript
 
 **Web Dev:**  
-React • Tailwind CSS • HTML • CSS • Three.js  
+React  • HTML • CSS 
 
 **Machine Learning:**  
 Scikit-learn • NumPy • Pandas  
@@ -42,18 +42,6 @@ ML model to predict loan default risk using Logistic Regression
 
 ---
 
-### 🤟 Real-Time Sign Language to Text
-Converts hand gestures into readable text using ML  
-→ Focus on accessibility and real-time processing  
-
----
-
-### 📈 Trading Signal Generator
-ML-powered system with backtesting for financial signals  
-→ Combines data analysis + predictive modeling  
-
----
-
 ## 📊 Coding Profiles
 
 - 🔥 Codeforces: Improving consistency & rating  
@@ -68,15 +56,6 @@ ML-powered system with backtesting for financial signals
 - Cloud (AWS)  
 
 ---
-
-## 🎯 Goals
-
-- Crack a top SDE / ML internship  
-- Build impactful, real-world projects  
-- Level up problem-solving skills  
-
----
-
 ## ⚡ Fun Facts
 
 - 🏋️ Gym + coding = balanced chaos  
