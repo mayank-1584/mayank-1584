@@ -76,7 +76,8 @@ ML model to predict loan default risk using Logistic Regression
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mayank-sharma-ab539b283/  
-- 💻 GitHub: https://github.com/mayank-1584  
+- 💻 GitHub: https://github.com/mayank-1584
+- 🌐 Portfolio: https://mayanksharma.space 
 
 ---
 
