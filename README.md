@@ -44,16 +44,16 @@ Git • GitHub • AWS • Vercel • Figma
 
 ## 🌟 Featured Projects
 
-### 💳 Credit Risk Prediction System
-ML model to predict loan default risk using Logistic Regression  
-→ Flask-based web app with real-time predictions  
-→ Deployed on AWS (CI/CD pipeline)
+📝 Summerizer — Abstractive Text Summarization System
+Fine-tuned Pegasus transformer to generate summaries from conversational text (SAMSum dataset)
+→ FastAPI-based web app with real-time summarization
+→ Modular ML pipeline (ingestion → transformation → training → evaluation)
 
 ---
 
 ## 📊 Coding Profiles
 
-- 🔥 Codeforces: Improving consistency & rating  
+- 🔥 Codeforces: Improving consistency & rating  rating-1200+
 - 💡 LeetCode: Focused on strong DSA foundation  
 
 ---
